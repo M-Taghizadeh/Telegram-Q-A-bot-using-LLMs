@@ -28,8 +28,8 @@ This project is a fully functional Telegram bot powered by OpenAI's GPT-4o model
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/telegram-qa-gpt4o-bot.git
-cd telegram-qa-gpt4o-bot
+git clone https://github.com/M-Taghizadeh/Telegram-Q-A-bot-using-LLMs.git
+cd Telegram-Q-A-bot-using-LLMs
 ```
 
 ### 2. Install Dependencies
@@ -57,13 +57,13 @@ Create an account at [pythonanywhere.com](pythonanywhere.com)
 Upload your files via the dashboard or Git
 Set up a "Always-on task" to run your bot
 
-### 🤖 Example Interaction
+## 🤖 Example Interaction
 ```
 >> User: What's the capital of Germany?
 >> Bot: The capital of Germany is Berlin. 🇩🇪
 ```
 
-### 📂 Project Structure
+## 📂 Project Structure
 ```
 Telegram-Q&A-bot-using-LLMs/
 │
@@ -72,5 +72,5 @@ Telegram-Q&A-bot-using-LLMs/
 └── README.md             # Project documentation
 ```
 
-### 🤝 Contributions
+## 🤝 Contributions
 Feel free to fork this repository, open issues, or submit pull requests. Contributions are welcome!
